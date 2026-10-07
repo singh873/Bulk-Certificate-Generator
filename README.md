@@ -60,7 +60,7 @@ Bulk Certificate Generator/
 ### 1. Clone the Repository
 
 ```bash
-git clone [<repository-url>](https://github.com/singh873/Bulk-Certificate-Generator)
+git clone https://github.com/singh873/Bulk-Certificate-Generator
 cd "Bulk Certificate Generator"
 ```
 
